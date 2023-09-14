@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @will-12897
-- 👀 I’m interested in data science, specifically in Python. But very new and keen to learn anything
-- 🌱 I’m currently learning python for data science
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me- message me!
 
 <!---
